@@ -1,0 +1,11 @@
+Key	Organism	Serotype	Strain code	Host	Country	Year
+inflA001	Influenza A virus	H5N1	A_MALLARD_ITALY_835_2006(H5N1)	mallard	Italy	2006
+inflA002	Influenza A virus	H5N1	A_CHICKEN_VIET_NAM_2_2005(H5N1)	chicken	Vietnam	2005
+inflA003	Influenza A virus	H5N1	A_CHICKEN_AFGHANISTAN_1573-7_2006(H5N1)	chicken	Afghanistan	2006
+inflA004	Influenza A virus	H5N1	A_CHICKEN_EGYPT_2253-1_2006(H5N1)	chicken	Egypt	2006
+inflA005	Influenza A virus	H5N1	A_CYGNUS_OLOR_CROATIA_1_2005(H5N1)	Cygnus olor	Croatia	2005
+inflA006	Influenza A virus	H5N1	A_QUAIL_VIET_NAM_15_2005(H5N1)	quail	Vietnam	2005
+inflA007	Influenza A virus	H5N2	A_POULTRY_ITALY_373_1997(H5N2)	poultry	Italy	1997
+inflA008	Influenza A virus	H5N1	A_DUCK_VIET_NAM_20_2005(H5N1)	duck	Vietnam	2005
+inflA009	Influenza A virus	H5N1	A_CYGNUS_CYGNUS_IRAN_754_2006(H5N1)	Cygnus cygnus	Iran	2006
+inflA010	Influenza A virus	H5N1	A_CHICKEN_AFGHANISTAN_1207_2006(H5N1)	chicken	Afghanistan	2006

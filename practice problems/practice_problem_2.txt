@@ -1,0 +1,7 @@
+#!/bin/bash
+
+min=1
+max=6
+
+num=$(($min + $((RANDOM%$max))))
+echo $num
